@@ -23,7 +23,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: "history",
-  base: "",
+  base: "/t3-build/",
   routes
 });
 
